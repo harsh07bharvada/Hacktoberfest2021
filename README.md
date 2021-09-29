@@ -42,8 +42,13 @@ Join the open source celebration and leave a mark on the open source world!
 
 | Repository| Link to Issue  | Knowledge Required  |
 |---|---|---|
-| [![HTML CSS JS](https://img.shields.io/badge/html--css--javascript-snake-dodgerblue.svg?style=flat&logo=react)](https://github.com/SubhamKarmakar24/snake/issues) | [Make a popup](https://github.com//issues/snake/issues/16) | Javascript Modals |
+| [![HTML CSS JS](https://img.shields.io/badge/html--css--javascript-snake-dodgerblue.svg?style=flat&logo=html5)](https://github.com/SubhamKarmakar24/snake/issues) | [Make a popup](https://github.com//issues/snake/issues/16) | Javascript Modals |
+| [![HTML CSS JS](https://img.shields.io/badge/html--css--javascript-snake-dodgerblue.svg?style=flat&logo=html5)](https://github.com/SubhamKarmakar24/snake/issues) | [UI in Mobile Screens](https://github.com//issues/snake/issues/17) | Media Query, Responsive grids |
+| [![HTML CSS JS](https://img.shields.io/badge/html--css--javascript-snake-dodgerblue.svg?style=flat&logo=html5)](https://github.com/SubhamKarmakar24/snake/issues) | [Modern UI](https://github.com//issues/snake/issues/19) | CSS |
 | [![React Native](https://img.shields.io/badge/react--native-snapshot-dodgerblue.svg?style=flat&logo=react)](https://github.com/SubhamKarmakar24/snapshot/issues) | [Unmount Camera component](https://github.com/SubhamKarmakar24/snapshot/issues/2) | React Hooks, Lifecycle |
+| [![React Native](https://img.shields.io/badge/react--native-snapshot-dodgerblue.svg?style=flat&logo=react)](https://github.com/SubhamKarmakar24/snapshot/issues) | [Add preloader](https://github.com/SubhamKarmakar24/snapshot/issues/5) | React Preloader |
+| [![React Native](https://img.shields.io/badge/react--native-snapshot-dodgerblue.svg?style=flat&logo=react)](https://github.com/SubhamKarmakar24/snapshot/issues) | [Add Google and Facebook auth](https://github.com/SubhamKarmakar24/snapshot/issues/14) | Firebase Auth |
+| [![React Native](https://img.shields.io/badge/react--native-snapshot-dodgerblue.svg?style=flat&logo=react)](https://github.com/SubhamKarmakar24/snapshot/issues) | [Edit and Delete comments](https://github.com/SubhamKarmakar24/snapshot/issues/24) | Firestore, React Components |
 
 
 
