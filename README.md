@@ -4,7 +4,9 @@
     </a>
 </p>
 
-<h1 align="center"><a href="https://github.com/SubhamKarmakar24/Hacktoberfest2021">Hacktoberfest 2021</a></h1>
+<h1 align="center">
+    <a href="https://github.com/SubhamKarmakar24/Hacktoberfest2021">Hacktoberfest 2021</a>
+</h1>
 
 <p align="center">
     <a href="https://github.com/SubhamKarmakar24/Hacktoberfest2021">
