@@ -42,8 +42,8 @@ Join the open source celebration and leave a mark on the open source world!
 
 | Repository| Link to Issue  | Knowledge Required  |
 |---|---|---|
-| [![React Native](https://img.shields.io/badge/react--native-snapshot-dodgerblue.svg?style=flat&logo=react)](https://github.com/SubhamKarmakar24/snapshot/issues) | [D](https://github.com//issues/snapshot/issues/4) | React Native |
-| [![React Native](https://img.shields.io/badge/react--native-snapshot-dodgerblue.svg?style=flat&logo=react)](https://github.com/SubhamKarmakar24/snapshot/issues) | [D](https://github.com/SubhamKarmakar24/snapshot/issues/277) | React Native |
+| [![HTML CSS JS](https://img.shields.io/badge/html--css--javascript-snake-dodgerblue.svg?style=flat&logo=react)](https://github.com/SubhamKarmakar24/snake/issues) | [Make a popup](https://github.com//issues/snake/issues/16) | Javascript Modals |
+| [![React Native](https://img.shields.io/badge/react--native-snapshot-dodgerblue.svg?style=flat&logo=react)](https://github.com/SubhamKarmakar24/snapshot/issues) | [Unmount Camera component](https://github.com/SubhamKarmakar24/snapshot/issues/2) | React Hooks, Lifecycle |
 
 
 
