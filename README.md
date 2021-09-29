@@ -50,6 +50,11 @@ Join the open source celebration and leave a mark on the open source world!
 | [![React Native](https://img.shields.io/badge/react--native-snapshot-dodgerblue.svg?style=flat&logo=react)](https://github.com/SubhamKarmakar24/snapshot/issues) | [Add Google and Facebook auth](https://github.com/SubhamKarmakar24/snapshot/issues/14) | Firebase Auth |
 | [![React Native](https://img.shields.io/badge/react--native-snapshot-dodgerblue.svg?style=flat&logo=react)](https://github.com/SubhamKarmakar24/snapshot/issues) | [Edit and Delete comments](https://github.com/SubhamKarmakar24/snapshot/issues/24) | Firestore, React Components |
 
+<br />
+
+I'll be adding few more issues. **[Follow me](https://github.com/SubhamKarmakar24/)** on GitHub([@SubhamKarmakar24](https://github.com/SubhamKarmakar24/)) to keep yourself updated!
+
+[![GitHub followers](https://img.shields.io/github/followers/SubhamKarmakar24.svg?label=Follow%20@SubhamKarmakar24&style=social)](https://github.com/SubhamKarmakar24/)
 
 
 ```js
@@ -72,6 +77,3 @@ Join the open source celebration and leave a mark on the open source world!
    \_/\_/ \___|_|\___\___/|_| |_| |_|\___(_)       
                                                                                                       
 ```
-I'll be adding few more issues. **[Follow me](https://github.com/SubhamKarmakar24/)** on GitHub([@SubhamKarmakar24](https://github.com/SubhamKarmakar24/)) to keep yourself updated!
-
-[![GitHub followers](https://img.shields.io/github/followers/SubhamKarmakar24.svg?label=Follow%20@SubhamKarmakar24&style=social)](https://github.com/SubhamKarmakar24/)
