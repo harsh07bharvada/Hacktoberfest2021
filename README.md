@@ -4,10 +4,6 @@
     </a>
 </p>
 
-<h1 align="center">
-    <a href="https://github.com/SubhamKarmakar24/Hacktoberfest2021">Hacktoberfest 2021</a>
-</h1>
-
 <p align="center">
     <a href="https://github.com/SubhamKarmakar24/Hacktoberfest2021">
         <img src="https://img.shields.io/github/hacktoberfest/2020/SubhamKarmakar24/snapshot?color=orange&label=HACKTOBERFEST%202021&logo=digitalocean&style=for-the-badge" >
