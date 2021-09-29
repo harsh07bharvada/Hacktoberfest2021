@@ -35,7 +35,7 @@ Join the open source celebration and leave a mark on the open source world!
 
 #### Recommended repo for beginners :
 
-[![snake](https://github-readme-stats.vercel.app/api/pin/?username=SubhamKarmakar24&repo=snake)](https://github.com/SubhamKarmakar24/snake)
+[![snake](https://github-readme-stats.vercel.app/api/pin/?username=SubhamKarmakar24&repo=snake&theme=radical)](https://github.com/SubhamKarmakar24/snake)
 
 
 #### Recommended issue for beginners:
